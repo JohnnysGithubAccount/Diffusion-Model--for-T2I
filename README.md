@@ -46,9 +46,10 @@ Text+Image-to-Image
 
    ```bash
    git clone https://github.com/JohnnysGithubAccount/Diffusion-Model--for-T2I.git
-
+   cd diffusion-model-t2i
+   
 2. Run Streamlit
    ```bash
    pip3 install streamlit
    streamlit run main.py
-   cd diffusion-model-t2i
+
