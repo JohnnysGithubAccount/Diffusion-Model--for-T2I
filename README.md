@@ -37,8 +37,8 @@ Text+Image-to-Image
     <img src="img_3.png" alt="img_3.png" width="500"/>
 </div>
 
-
-
+### Deployed on Streamlit
+![image](https://github.com/user-attachments/assets/6f10e6dd-4f1f-4901-9f33-c639ab8d648c)
 
 ### Installation
 
@@ -47,3 +47,9 @@ Text+Image-to-Image
    ```bash
    git clone https://github.com/JohnnysGithubAccount/Diffusion-Model--for-T2I.git
    cd diffusion-model-t2i
+   
+2. Run Streamlit
+   ```bash
+   pip3 install streamlit
+   streamlit run main.py
+
